@@ -1,6 +1,6 @@
 ---
 title: New blog, old downloads
-date: 2017-01-14 12:00:00
+date: 2017-01-14 11:59:00
 ---
 
 # New blog
