@@ -9,6 +9,7 @@
     "version": "3.2.2"
   },
   "dependencies": {
+    "bergos-bootstrap": "git://github.com/bergos/bergos-bootstrap.git#master",
     "hexo": "^3.2.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
@@ -20,6 +21,7 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
+    "jquery": "^3.1.1",
     "shelljs": "^0.7.6"
   }
 }

@@ -2,5 +2,10 @@
 db.json
 node_modules/
 public/
-themes/
+themes/bergos/source/css/bootstrap.min.css
+themes/bergos/source/fonts
+themes/bergos/source/images
+themes/bergos/source/js/bootstrap.min.js
+themes/bergos/source/js/jquery.min.js
+themes/bergos/tmp
 *.log

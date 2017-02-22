@@ -9,16 +9,21 @@ function clean () {
 }
 
 function dist () {
-  mkdir('-p', 'themes')
+  // bootstrap files
+  mkdir('-p', 'themes/bergos/source/css')
+  cp('-r', 'node_modules/bergos-bootstrap/dist/css/bootstrap.min.css', 'themes/bergos/source/css')
 
-  // clone theme
-  exec('git clone --depth 1 --branch master git@github.com:bergos/hexo-theme-bergos.git themes/bergos')
+  mkdir('-p', 'themes/bergos/source/fonts')
+  cp('-r', 'node_modules/bergos-bootstrap/dist/fonts/*', 'themes/bergos/source/fonts')
 
-  // install depenencies
-  cd('themes/bergos')
-  exec('npm install')
-  exec('node install')
-  cd('../..')
+  mkdir('-p', 'themes/bergos/source/images')
+  cp('-r', 'node_modules/bergos-bootstrap/dist/images/*', 'themes/bergos/source/images')
+
+  mkdir('-p', 'themes/bergos/source/js')
+  cp('-r', 'node_modules/bergos-bootstrap/dist/js/bootstrap.min.js', 'themes/bergos/source/js')
+
+  // jquery files
+  cp('node_modules/jquery/dist/jquery.min.js', 'themes/bergos/source/js')
 }
 
 program
