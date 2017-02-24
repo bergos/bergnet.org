@@ -102,15 +102,15 @@ Sorting the molecules by the output value gives a much higher chance to find a g
 Because of the lack of negative data the test dataset is very small.
 But with rotated datasets the result could be reproduced.
 
-[This diagram](/static/ligand-binding-deep-learning-5ht2a75.html) show the sorted results for the 5ht2a receptor using 75 alternatives per molecule.
+This diagram shows the sorted results for the 5ht2a receptor using 75 alternatives per molecule.
 
 {% raw %}
  <div style="overflow-x: scroll;">
    <div id="container" style="width: 4000px; height: 500px;"></div>
  </div>
 
- <script src="http://code.highcharts.com/highcharts.js"></script>
- <script src="http://code.highcharts.com/highcharts-more.js"></script>
+ <script src="https://code.highcharts.com/highcharts.js"></script>
+ <script src="https://code.highcharts.com/highcharts-more.js"></script>
  <script src="/files/highcharts-theme.js"></script>
  <script src="/files/ligand-binding-deep-learning-5ht2a75.js"></script>
 {% endraw %}
