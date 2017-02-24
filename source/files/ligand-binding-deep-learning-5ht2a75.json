@@ -1,0 +1,2514 @@
+{
+  "CSc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 326": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9485351636603041,
+      "min": 0.9224544763565,
+      "max": 0.9755391478539
+    }
+  },
+  "COc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 1257": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9468968320224056,
+      "min": 0.8854357004166,
+      "max": 0.9746578335762
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1C - 262": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9500009107263095,
+      "min": 0.9249400496483,
+      "max": 0.9773787856102
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1O - 3394": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9488701273317206,
+      "min": 0.9230065345764,
+      "max": 0.9766098856926
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1 - 77.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9515660766399271,
+      "min": 0.9249286651611,
+      "max": 0.9775437116623
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1[N](=O)[O] - 282": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9472876626092013,
+      "min": 0.8900808691978,
+      "max": 0.9785186648369
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1Cl - 301": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9527836505572043,
+      "min": 0.9251244664192,
+      "max": 0.9789293408394
+    }
+  },
+  "N#Cc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 700": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9483143240213414,
+      "min": 0.9042347669601,
+      "max": 0.9761047959328
+    }
+  },
+  "CCc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 3373": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9466948272430673,
+      "min": 0.921857714653,
+      "max": 0.9795151948929
+    }
+  },
+  "CCCc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 3191": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9509624806169011,
+      "min": 0.9236990809441,
+      "max": 0.9782471656799
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1C(C)C - 4824": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9498176444066739,
+      "min": 0.9038993120193,
+      "max": 0.9754231572151
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1c1ccccc1 - 1464": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9484654648883946,
+      "min": 0.9224419593811,
+      "max": 0.9742624163628
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1N(C)C - 559": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9480595795313534,
+      "min": 0.9251571893692,
+      "max": 0.9791322946548
+    }
+  },
+  "CNc1ccccc1N1CCN(CC1)CCCCCC(=O)NC1CCCc2c1cccc2 - 1587": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9501594860811512,
+      "min": 0.9249237179756,
+      "max": 0.9743744730949
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1NC(=O)C - 3521": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9481581474343945,
+      "min": 0.9251146316528,
+      "max": 0.9732854962349
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1F - 194": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9488579920820228,
+      "min": 0.9248228669167,
+      "max": 0.9717730283737
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccn1 - 535": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9532804766171397,
+      "min": 0.9160448908806,
+      "max": 0.9740001559258
+    }
+  },
+  "Fc1ccc(cc1)C(=O)C1CCN(CC1)CCn1c(=O)[nH]c2c(c1=O)cccc2 - 1.7906250000000004": {
+    "expected": 1,
+    "actual": {
+      "average": 0.946277842753468,
+      "min": 0.9160348773003,
+      "max": 0.9685519933701
+    }
+  },
+  "CN1CCN(CC1)C1=Nc2ccccc2Nc2c1cc(s2)C - 3.314285714285714": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9540768327081897,
+      "min": 0.9270898103714,
+      "max": 0.9802303910255
+    }
+  },
+  "CN(CCOC1=Cc2ccccc2Sc2c1cc(Cl)cc2)C - 1.8820000000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9519519439110433,
+      "min": 0.9256581664085,
+      "max": 0.9800532460213
+    }
+  },
+  "CN1CCN2[C@H](C1)c1ccccc1Cc1c2cccc1 - 3.786": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9671819194157949,
+      "min": 0.9291063547134,
+      "max": 0.9745718836784
+    }
+  },
+  "CN(CCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1)C - 262": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9537399776520321,
+      "min": 0.9252554178238,
+      "max": 0.9768534898758
+    }
+  },
+  "CCN(CCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1)C - 222": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9465771413901233,
+      "min": 0.9062925577164,
+      "max": 0.9753057360649
+    }
+  },
+  "CNCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1 - 273": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9535170179147016,
+      "min": 0.9001010656357,
+      "max": 0.9711712598801
+    }
+  },
+  "CCNCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1 - 389": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9508571798984861,
+      "min": 0.9180320501328,
+      "max": 0.9734796881676
+    }
+  },
+  "CCCNCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1 - 367": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9504298856181466,
+      "min": 0.9166916012764,
+      "max": 0.9686880111694
+    }
+  },
+  "CC(NCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1)C - 110": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9494014174219193,
+      "min": 0.9248485565186,
+      "max": 0.9688625335693
+    }
+  },
+  "O=S(=O)(c1c[nH]c2c1c(CCNC1CCCC1)ccc2)c1ccccc1 - 19": {
+    "expected": 1,
+    "actual": {
+      "average": 0.951220651759824,
+      "min": 0.8954132795334,
+      "max": 0.9778127074242
+    }
+  },
+  "O=S(=O)(c1c[nH]c2c1c(ccc2)CCN1CCCC1)c1ccccc1 - 117": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9488058649003597,
+      "min": 0.9256677031517,
+      "max": 0.9684551358223
+    }
+  },
+  "O=S(=O)(c1c[nH]c2c1c(ccc2)CCN1CCCCCC1)c1ccccc1 - 33": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9520571674619386,
+      "min": 0.9250586628914,
+      "max": 0.9713394641876
+    }
+  },
+  "CC1CCCCN1CCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1 - 89": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9492967716521667,
+      "min": 0.92550522089,
+      "max": 0.9750764966011
+    }
+  },
+  "CC1CCCN(C1)CCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1 - 46": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9506067774362038,
+      "min": 0.9106243252754,
+      "max": 0.9720441102982
+    }
+  },
+  "CCN(CCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1)C - 713": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9524796472655405,
+      "min": 0.9250525832176,
+      "max": 0.9783139824867
+    }
+  },
+  "CC(NCCCc1cccc2c1c(c[nH]2)S(=O)(=O)c1ccccc1)C - 619": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9484383367440309,
+      "min": 0.9102182984352,
+      "max": 0.9696562290192
+    }
+  },
+  "O=S(=O)(c1c[nH]c2c1c(CCCN1CCCCC1)ccc2)c1ccccc1 - 854": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9531320324715459,
+      "min": 0.9227553606033,
+      "max": 0.975666642189
+    }
+  },
+  "O=S(=O)(c1c[nH]c2c1c(ccc2)CCN1CCCCC1)c1ccccc1 - 59": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9488642471177213,
+      "min": 0.9231815338135,
+      "max": 0.9720074534416
+    }
+  },
+  "NCC1c2ccccc2Cc2c1cccc2 - 20": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9702311896142474,
+      "min": 0.9319128394127,
+      "max": 0.9767661690712
+    }
+  },
+  "CNCC1c2ccccc2Cc2c1cccc2 - 52": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9671133111734853,
+      "min": 0.9243841767311,
+      "max": 0.9767264723778
+    }
+  },
+  "CN(CC1c2ccccc2Cc2c1cccc2)C - 540": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9632379229252138,
+      "min": 0.919032394886,
+      "max": 0.9767907261848
+    }
+  },
+  "NCCC1c2ccccc2Cc2c1cccc2 - 480": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9665100260784737,
+      "min": 0.924219250679,
+      "max": 0.97676217556
+    }
+  },
+  "CNCCC1c2ccccc2Cc2c1cccc2 - 92": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684390011480253,
+      "min": 0.9190958738327,
+      "max": 0.9767988920212
+    }
+  },
+  "CN(CCC1c2ccccc2Cc2c1cccc2)C - 84": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9608035116426304,
+      "min": 0.918122947216,
+      "max": 0.9766862988472
+    }
+  },
+  "NCCCC1c2ccccc2Cc2c1cccc2 - 32": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9663938304125254,
+      "min": 0.9282735586166,
+      "max": 0.977386534214
+    }
+  },
+  "CNCCCC1c2ccccc2Cc2c1cccc2 - 13": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9637442240949539,
+      "min": 0.9278186559677,
+      "max": 0.9765512347221
+    }
+  },
+  "CN(CCCC1c2ccccc2Cc2c1cccc2)C - 22": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9574626098419033,
+      "min": 0.9156477451324,
+      "max": 0.9767874479294
+    }
+  },
+  "NCC(c1ccccc1)c1ccccc1 - 4882.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9720474252333925,
+      "min": 0.9628515839577,
+      "max": 0.9765919446945
+    }
+  },
+  "CN(CC(c1ccccc1)c1ccccc1)C - 7356": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9707381959472323,
+      "min": 0.9524056911469,
+      "max": 0.9761278033257
+    }
+  },
+  "CNCCC(c1ccccc1)c1ccccc1 - 1498": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9739980183798689,
+      "min": 0.966986477375,
+      "max": 0.9766607880592
+    }
+  },
+  "CN(CCC(c1ccccc1)c1ccccc1)C - 1636": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686686356862364,
+      "min": 0.9243770241737,
+      "max": 0.9764254689217
+    }
+  },
+  "NCCCC(c1ccccc1)c1ccccc1 - 2589": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9719889014959394,
+      "min": 0.9304980039597,
+      "max": 0.976658642292
+    }
+  },
+  "CNCCCC(c1ccccc1)c1ccccc1 - 754": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9710715002027139,
+      "min": 0.9116688966751,
+      "max": 0.9766411185265
+    }
+  },
+  "CN(CCCC(c1ccccc1)c1ccccc1)C - 1151": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678277492523233,
+      "min": 0.9428761005402,
+      "max": 0.9762175679207
+    }
+  },
+  "COc1c(OC)cccc1C(C1CCN(CC1)CCn1c(=S)[nH]c2c(c1=O)cccc2)O - 390": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9460069504502653,
+      "min": 0.8915919065475,
+      "max": 0.9710422754288
+    }
+  },
+  "FCCOc1cccc(c1OC)C(C1CCN(CC1)CCn1c(=S)[nH]c2c(c1=O)cccc2)O - 356": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9458331918716387,
+      "min": 0.925183236599,
+      "max": 0.9793266057968
+    }
+  },
+  "FCCOc1cccc(c1OC)/C(=N/OCCN(C)C)/C1CCN(CC1)CCc1ccc(cc1)F - 57": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9438333350258918,
+      "min": 0.9248162508011,
+      "max": 0.9734744429588
+    }
+  },
+  "COc1c(OC)cccc1C(=O)C1CCN(CC1)CCn1c(=S)[nH]c2c(c1=O)cccc2 - 411": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9455021893655974,
+      "min": 0.9232696294785,
+      "max": 0.9679301381111
+    }
+  },
+  "Fc1ccc2c(c1)onc2C1CCN(CC1)CCc1c(C)nc2n(c1=O)CCCC2O - 0.8799999999999999": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9455599641799963,
+      "min": 0.9241120815277,
+      "max": 0.9714604616165
+    }
+  },
+  "CN1CCN(CC1)C1=c2ccccc2=Nc2c(N1)cc(Cl)cc2 - 8.126999999999999": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9464275102092852,
+      "min": 0.9146672487259,
+      "max": 0.9729062318802
+    }
+  },
+  "Fc1ccc(cc1)C(=O)CCCN1CCC(CC1)(O)c1ccc(cc1)Cl - 113.83148148148149": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9460581975323827,
+      "min": 0.908771276474,
+      "max": 0.9706695079803
+    }
+  },
+  "Fc1ccc2c(c1)onc2C1CCN(CC1)CCc1c(C)nc2n(c1=O)CCCC2 - 0.8258421052631578": {
+    "expected": 1,
+    "actual": {
+      "average": 0.949903033574423,
+      "min": 0.9247984886169,
+      "max": 0.9737917780876
+    }
+  },
+  "NCCc1c[nH]c2c1cc(O)cc2 - 261.41749999999996": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9658186474784493,
+      "min": 0.9265944957733,
+      "max": 0.9757879376411
+    }
+  },
+  "Clc1cccc(c1)N1CCNCC1 - 117.85250000000002": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9641428486160587,
+      "min": 0.9217529892921,
+      "max": 0.9772623181343
+    }
+  },
+  "CC[C@H](NC(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)cn3C)CO - 3.8600000000000003": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9689508120218947,
+      "min": 0.9644423723221,
+      "max": 0.9719434976578
+    }
+  },
+  "Fc1ccc(cc1)C(=C1CCN(CC1)CCc1c(C)nc2n(c1=O)ccs2)c1ccc(cc1)F - 5.587875": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9435608588473916,
+      "min": 0.9252477884293,
+      "max": 0.9668990969658
+    }
+  },
+  "Fc1ccc(cc1)C(=O)CCCN1CCC2(CC1)C(=O)NCN2c1ccccc1 - 7.803999999999999": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9455269155368013,
+      "min": 0.9046896100044,
+      "max": 0.9680942296982
+    }
+  },
+  "COC(=O)[C@H]1[C@@H](O)CC[C@@H]2[C@@H]1C[C@@H]1N(C2)CCc2c1[nH]c1c2cccc1 - 1271.595": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9688299322128305,
+      "min": 0.9620815515518,
+      "max": 0.9740926623344
+    }
+  },
+  "CCCCN1CCC(CC1)COC(=O)c1cc(Cl)c(c2c1OCCO2)N - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9507889907124987,
+      "min": 0.9250005483627,
+      "max": 0.9716046452522
+    }
+  },
+  "O[C@]1(CCN2[C@@H](C1)c1cccc3c1[C@@H](C2)c1ccccc1CC3)C(C)(C)C - 6.625": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9689246877034516,
+      "min": 0.9636615514755,
+      "max": 0.9721714258194
+    }
+  },
+  "CN1CCC(=C2c3ccccc3C=Cc3c2cccc3)CC1 - 2.142857142857143": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9535979105876015,
+      "min": 0.9268194437027,
+      "max": 0.9757091999054
+    }
+  },
+  "COc1cc(I)c(cc1CC(N)C)OC - 12.680625000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9664205258542867,
+      "min": 0.9207503795624,
+      "max": 0.9764676094055
+    }
+  },
+  "CN1C[C@H](C[C@H]2[C@H]1Cc1cn(c3c1c2ccc3)C)NS(=O)(=O)N(C)C - 61.8525": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9687276427683041,
+      "min": 0.9633440971375,
+      "max": 0.9733602404594
+    }
+  },
+  "NCCc1c[nH]c2c1cccc2 - 1285.0083333333332": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9643547133757402,
+      "min": 0.8876013755798,
+      "max": 0.9761162996292
+    }
+  },
+  "NCCc1cn(c2c1cc(OC)cc2)C(C)C - 7292": {
+    "expected": 1,
+    "actual": {
+      "average": 0.962972176401582,
+      "min": 0.924572467804,
+      "max": 0.976674079895
+    }
+  },
+  "NCCc1cn(c2c1cccc2)C(C)C - 5721": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9716748488483166,
+      "min": 0.9266619086266,
+      "max": 0.9824806451797
+    }
+  },
+  "NCCc1c[nH]c2c1cc(OC)cc2 - 341.90833333333336": {
+    "expected": 1,
+    "actual": {
+      "average": 0.96733583344353,
+      "min": 0.9299817085266,
+      "max": 0.9764620661736
+    }
+  },
+  "O=C(C1CN(C)C2C(C1)c1cccc3c1c(C2)cn3C(C)C)NC1CCCCC1 - 24.099999999999998": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9443433491388898,
+      "min": 0.9247530698776,
+      "max": 0.9743832945824
+    }
+  },
+  "OCC(NC(=O)C1CN(C)C2C(=C1)c1cccc3c1c(C2)c[nH]3)C - 3.5999999999999996": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9490703956286035,
+      "min": 0.9257422685623,
+      "max": 0.9757025837898
+    }
+  },
+  "CC(C(OC(=O)[C@H]1CN(C)[C@H]2[C@H](C1)c1cccc3c1c(C2)cn3C)C)O - 57": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682428907406946,
+      "min": 0.9599652290344,
+      "max": 0.9733644723892
+    }
+  },
+  "O=C([C@H]1CN(C)[C@H]2[C@H](C1)c1cccc3c1c(C2)c[nH]3)NC1CCCCC1 - 2.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684965457465148,
+      "min": 0.9636214971542,
+      "max": 0.971547305584
+    }
+  },
+  "CC(Cn1cc2c3c1cccc3[C@@H]1[C@@H](C2)N(C)C[C@@H](C1)C(=O)OC(C(O)C)C)C - 150.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678934494654322,
+      "min": 0.9601217508316,
+      "max": 0.9723596572876
+    }
+  },
+  "CC(C(O)C)OC(=O)C1CN(C)C2C(C1)c1cccc3c1c(C2)cn3C(C)C - 36.55": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9454626088079685,
+      "min": 0.9250758886337,
+      "max": 0.9685703516006
+    }
+  },
+  "CC(C(OC(=O)C1CN(C)C2C(C1)c1cccc3c1c(C2)c[nH]3)C)O - 3.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9482390389249107,
+      "min": 0.9253612756729,
+      "max": 0.9689905047417
+    }
+  },
+  "O=C(OCc1ccccc1)NC[C@H]1CN(C)[C@H]2[C@H](C1)c1cccc3c1c(C2)cn3C - 0.4366666666666667": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683627815623094,
+      "min": 0.9610414505005,
+      "max": 0.9716732501984
+    }
+  },
+  "COC1CN(CCCOc2ccc(cc2)F)CCC1NC(=O)c1cc(Cl)c(cc1OC)N - 8.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9447025330861426,
+      "min": 0.874814927578,
+      "max": 0.9712625741959
+    }
+  },
+  "CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c([nH]3)Br)CC - 0.48": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683131757709705,
+      "min": 0.9652618169785,
+      "max": 0.9710501432419
+    }
+  },
+  "OC(c1ccccc1)C1CCN(CC1)CCc1ccccc1 - 7.9719999999999995": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9568968892097487,
+      "min": 0.928006529808,
+      "max": 0.9752849340439
+    }
+  },
+  "CN1CCN(CC1)C1=c2cc(sc2=Nc2c(N1)cccc2)C - 6.063749999999999": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9503031917240247,
+      "min": 0.9161978960037,
+      "max": 0.9801954627037
+    }
+  },
+  "O=C(c1ccc(cc1)F)CCCN1CCC(CC1)(N1CCCCC1)C(=O)N - 6.305": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9489477769188247,
+      "min": 0.9011446237564,
+      "max": 0.9771400094032
+    }
+  },
+  "Fc1ccc(cc1)C(=O)C1CCN(CC1)CCc1c(C)nc2n(c1=O)cccc2 - 1.08": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9454015129142331,
+      "min": 0.9222388267517,
+      "max": 0.970164835453
+    }
+  },
+  "CC(Cc1c[nH]c2c1cc(OCc1cccs1)cc2)N - 110.21833333333335": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9576909037099944,
+      "min": 0.9179681539536,
+      "max": 0.9775673151016
+    }
+  },
+  "O=C(Nc1cccnc1)Nc1ccc2c(c1)ccn2C - 5011.87": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9547904615893046,
+      "min": 0.9202131032944,
+      "max": 0.9800748825073
+    }
+  },
+  "O=C(Nc1snc(c1)C)Nc1ccc2c(c1)ccn2C - 5011.87": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9521572811262929,
+      "min": 0.926566362381,
+      "max": 0.9799574017525
+    }
+  },
+  "O=C(N1CCc2c1cc1ccn(c1c2)C)Nc1cccnc1 - 1857.42": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9519111103302731,
+      "min": 0.9266123175621,
+      "max": 0.9723870754242
+    }
+  },
+  "ClC1CCC(S1)C(=NN=C(N)N)c1ccccc1 - 137": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9595282308909365,
+      "min": 0.9271085858345,
+      "max": 0.9760946631432
+    }
+  },
+  "CCCc1c(COc2ccc(cc2)C=NN=C(N)N)ccc(c1O)C(=O)C - 65": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9472490523172507,
+      "min": 0.9052988290787,
+      "max": 0.9722431898117
+    }
+  },
+  "CCCc1c(COc2ccc(c(c2)OC)C=NN=C(N)N)ccc(c1O)C(=O)CC - 248": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9455758055595508,
+      "min": 0.89517390728,
+      "max": 0.972927570343
+    }
+  },
+  "CCCc1cc(ccc1Oc1cccc(c1)C=NN=C(N)N)C(C)(C)C - 839": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9490774589426352,
+      "min": 0.9232679605484,
+      "max": 0.9719183444977
+    }
+  },
+  "CCCc1c(COc2ccc(cc2)C=NN=C(N)N)ccc(c1O)C(=O)CC - 96": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9421086864195002,
+      "min": 0.8815371394157,
+      "max": 0.9707047939301
+    }
+  },
+  "NC(=NN=Cc1ccc(cc1)OCc1cc(C)ccc1C)N - 569": {
+    "expected": 1,
+    "actual": {
+      "average": 0.952136018696947,
+      "min": 0.9003812074661,
+      "max": 0.9734189510345
+    }
+  },
+  "NC(=NN=Cc1cccc(c1)OCc1ccc(cc1)C(=O)c1ccccc1)N - 179": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9454951785943058,
+      "min": 0.9249219894409,
+      "max": 0.9797601699829
+    }
+  },
+  "NC(=NCCCOc1ccccc1Cl)CNc1ccccc1 - 0.07": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9527483653214017,
+      "min": 0.8983093500137,
+      "max": 0.9766196012497
+    }
+  },
+  "Fc1ccc(cc1)C(c1ccc(cc1)F)CCCN1CCC2(CC1)C(=O)NCN2c1ccccc1 - 9.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9444334910196441,
+      "min": 0.924953520298,
+      "max": 0.9662673473358
+    }
+  },
+  "Clc1ccc2c(c1)C1CN(CC1c1c(O2)cccc1)C - 0.515": {
+    "expected": 1,
+    "actual": {
+      "average": 0.954034063376878,
+      "min": 0.9253680706024,
+      "max": 0.9755458831787
+    }
+  },
+  "OCCOCCN1CCN(CC1)C1=Nc2ccccc2Sc2c1cccc2 - 394.6666666666667": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9501361378601642,
+      "min": 0.9254841804504,
+      "max": 0.9741768836975
+    }
+  },
+  "Clc1ccc2c(c1)c(cn2c1ccc(cc1)F)C1CCN(CC1)CCN1CCNC1=O - 0.4575": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9463131793340039,
+      "min": 0.8979613780975,
+      "max": 0.9761371016502
+    }
+  },
+  "O=C1Nc2c(C1)cc(c(c2)Cl)CCN1CCN(CC1)c1nsc2c1cccc2 - 0.4022222222222222": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9507688649495483,
+      "min": 0.9220923185349,
+      "max": 0.9775647521019
+    }
+  },
+  "COc1cc(ccc1OCCCN1CCC(CC1)c1noc2c1ccc(c2)F)C(=O)C - 1.9733333333333334": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9469672926267027,
+      "min": 0.9253306984901,
+      "max": 0.9740696549416
+    }
+  },
+  "OCCN1CCN(CC1)CCCN1c2ccccc2Sc2c1cc(cc2)C(F)(F)F - 37.733333333333334": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9477115722551755,
+      "min": 0.9250907301903,
+      "max": 0.9783769845963
+    }
+  },
+  "CN1CCN(CC1)C1=Nc2ccccc2Nc2c1cc(Cl)cc2 - 3.4166666666666665": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9485025968350184,
+      "min": 0.9191856980324,
+      "max": 0.9725781083107
+    }
+  },
+  "CN1CCN(CC1)C1=Nc2ccccc2Oc2c1cc(Cl)cc2 - 5.58": {
+    "expected": 1,
+    "actual": {
+      "average": 0.949359003040525,
+      "min": 0.9267917275429,
+      "max": 0.9698464870453
+    }
+  },
+  "CC1CCN(CC1)CCCC(=O)c1ccc(cc1)F - 177.33333333333334": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9593727993113664,
+      "min": 0.9282721877098,
+      "max": 0.9758206605911
+    }
+  },
+  "CCc1c(C)[nH]c2c1C(=O)C(CC2)CN1CCOCC1 - 3973.3333333333335": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9534362502720088,
+      "min": 0.9071481227875,
+      "max": 0.9755745530128
+    }
+  },
+  "CN1CCN(CC1)C1=Nc2ccccc2Cc2c1cccc2 - 21.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.952995916775293,
+      "min": 0.925577878952,
+      "max": 0.9733465313911
+    }
+  },
+  "CCN1CCC[C@H]1CNC(=O)c1c(O)c(Cl)cc(c1OC)Cl - 5400": {
+    "expected": 1,
+    "actual": {
+      "average": 0.965691025827976,
+      "min": 0.9281361699104,
+      "max": 0.9729568958282
+    }
+  },
+  "CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(c1OC)Br - 3100": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9664579280785144,
+      "min": 0.9270161986351,
+      "max": 0.9766708016396
+    }
+  },
+  "CSc1ccc2c(c1)N(CCC1CCCCN1C)c1c(S2)cccc1 - 37.43333333333333": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9503996634483317,
+      "min": 0.9258627891541,
+      "max": 0.9769290685654
+    }
+  },
+  "CN1CCN(CC1)CCCN1c2ccccc2Sc2c1cc(cc2)C(F)(F)F - 74": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9483694243431037,
+      "min": 0.916064620018,
+      "max": 0.9798150062561
+    }
+  },
+  "O=C(N1CCc2c1cc(Cl)c(c2)C)Nc1ccc(nc1)Oc1cccnc1C - 331.5275": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9499480303128595,
+      "min": 0.922964990139,
+      "max": 0.9712134003639
+    }
+  },
+  "O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(CC1)c1ncccn1 - 426.20599999999996": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9555424041435391,
+      "min": 0.9273656606674,
+      "max": 0.9792491793633
+    }
+  },
+  "Fc1ccc(cc1)C(=O)CCCN1CCC(CC1)(O)c1ccc(c(c1)C(F)(F)F)Cl - 4.46": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9427936283747359,
+      "min": 0.8907989263535,
+      "max": 0.9666664004326
+    }
+  },
+  "CCCN(CCC)CCc1c[nH]c2c1cc(cc2)C(=O)N - 512.86": {
+    "expected": 1,
+    "actual": {
+      "average": 0.95675019423167,
+      "min": 0.9256761670113,
+      "max": 0.9757225513458
+    }
+  },
+  "O=C([C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)N[C@]1(C)O[C@@]2(N(C1=O)[C@@H](Cc1ccccc1)C(=O)N1[C@H]2CCC1)O - 0.64": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678495698853579,
+      "min": 0.9623433351517,
+      "max": 0.9738029241562
+    }
+  },
+  "CNCCC(c1ccccc1)Oc1ccc(cc1)C(F)(F)F - 196.69": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9527613871863874,
+      "min": 0.9208189249039,
+      "max": 0.975334405899
+    }
+  },
+  "CCN(C(=O)N[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC - 2.5225": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683531946257526,
+      "min": 0.9631634354591,
+      "max": 0.9711204767227
+    }
+  },
+  "CSc1ccc2c(c1)C(Cc1c(S2)cccc1)N1CCN(CC1)C - 1.6300000000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9522220781871245,
+      "min": 0.915070772171,
+      "max": 0.9801104068756
+    }
+  },
+  "NCC[C@@H](c1ccccc1)Oc1ccc(cc1)C(F)(F)F - 295.12": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9665542520858629,
+      "min": 0.9287690520287,
+      "max": 0.9757122397423
+    }
+  },
+  "Cc1cc(c(c(c1CC1=NCCN1)C)O)C(C)(C)C - 257.03": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9560425575228637,
+      "min": 0.9237038493156,
+      "max": 0.9725470542908
+    }
+  },
+  "COc1cc(OC)c(cc1C(=O)CCCCN1CCC2(CC1)NC(=O)NC2=O)NS(=O)(=O)c1ccc(cc1)C(F)(F)F - 1970.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9423484713644623,
+      "min": 0.9199866056442,
+      "max": 0.9692924618721
+    }
+  },
+  "CN1CC[C@H]2[C@@H](C1)c1cccc3c1N(C2)CC3 - 491.65000000000003": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677723882949477,
+      "min": 0.9339463114738,
+      "max": 0.9730509519577
+    }
+  },
+  "COc1cc(N)c(cc1C(=O)NC1CN2CCC1CC2)Cl - 1348.96": {
+    "expected": 1,
+    "actual": {
+      "average": 0.950531901632033,
+      "min": 0.9260440468788,
+      "max": 0.974730014801
+    }
+  },
+  "Clc1cccc(c1)N1CCN(CC1)CC(C(c1ccccc1)c1ccccc1)O - 251.18": {
+    "expected": 1,
+    "actual": {
+      "average": 0.950253862473697,
+      "min": 0.9244735836983,
+      "max": 0.9795491099358
+    }
+  },
+  "COc1ccc(cc1N1CCN(CC1)C)NC(=O)c1ccc(cc1)c1ccc(cc1C)c1noc(n1)C - 24.796666666666667": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9445618038114709,
+      "min": 0.9205357432365,
+      "max": 0.9755285382271
+    }
+  },
+  "COc1ccc(cc1OCCN(C)C)NC(=O)c1ccc(cc1)c1ccc(cc1C)c1noc(n1)C - 50.114999999999995": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9480125253137824,
+      "min": 0.9240915775299,
+      "max": 0.9701107144356
+    }
+  },
+  "CN(C1CCc2c(C1)c1cc(ccc1[nH]2)NC(=O)c1ccc(cc1)F)C - 3935": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9524787795053791,
+      "min": 0.9252238869667,
+      "max": 0.9782418012619
+    }
+  },
+  "CN(CCCN1c2ccccc2Sc2c1cc(Cl)cc2)C - 4.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.952899996605183,
+      "min": 0.9250542521477,
+      "max": 0.975221157074
+    }
+  },
+  "CN1CCN(CC1)C1=Nc2cc(Cl)ccc2Oc2c1cccc2 - 7.35": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9519961236251723,
+      "min": 0.9265178442001,
+      "max": 0.9802832007408
+    }
+  },
+  "COc1cccc(c1OC)[C@@H](C1CCN(CC1)CCc1ccc(cc1)F)O - 0.6525": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967247375532199,
+      "min": 0.9284439086914,
+      "max": 0.9748660326004
+    }
+  },
+  "CN1CCC2(CC1)COc1c2cc2c(c1)CCN2C(=O)c1ccc(cc1)c1ccc(cc1C)c1noc(n1)C - 2599.6733333333336": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9450685016314186,
+      "min": 0.9001989364624,
+      "max": 0.9696418642998
+    }
+  },
+  "CCCCCCOc1nsnc1C1=CCCN(C1)C - 125.89": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9666902473417373,
+      "min": 0.9280582070351,
+      "max": 0.9766376614571
+    }
+  },
+  "COc1ccc(c(c1)CC(N)C)OC - 4106.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9696229226661421,
+      "min": 0.9154942035675,
+      "max": 0.9765711426735
+    }
+  },
+  "COc1cc(C(=O)C)c(cc1CC(N)C)OC - 80.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.957315958598078,
+      "min": 0.9249153137207,
+      "max": 0.9792056083679
+    }
+  },
+  "COc1cc(Br)c(cc1CC(N)C)OC - 21.005": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968692164761682,
+      "min": 0.9282972216606,
+      "max": 0.9793395400047
+    }
+  },
+  "COc1cc(CC(N)C)c(cc1Cc1ccccc1)OC - 0.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9552064885695766,
+      "min": 0.9261896014214,
+      "max": 0.9755827784538
+    }
+  },
+  "OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C - 1.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9690838593083363,
+      "min": 0.9615377783775,
+      "max": 0.9735255241394
+    }
+  },
+  "COc1cc(C#N)c(cc1CC(N)C)OC - 45.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9621287757071896,
+      "min": 0.92306214571,
+      "max": 0.976757645607
+    }
+  },
+  "COc1cc(F)c(cc1CC(N)C)OC - 41.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.969921306463383,
+      "min": 0.9269179701805,
+      "max": 0.9787190556526
+    }
+  },
+  "CCCCCCc1cc(OC)c(cc1OC)CC(N)C - 1.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9622054209171902,
+      "min": 0.9260706305504,
+      "max": 0.9765769839287
+    }
+  },
+  "COc1cc([N](=O)[O])c(cc1CC(N)C)OC - 5.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9562303482646691,
+      "min": 0.9004477262497,
+      "max": 0.9778112769127
+    }
+  },
+  "CCCc1cc(OC)c(cc1OC)CC(N)C - 0.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678591106619214,
+      "min": 0.9286910891533,
+      "max": 0.9774797558784
+    }
+  },
+  "COc1cc(c(cc1CC(N)C)OC)C(C)(C)C - 3.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9560514075655339,
+      "min": 0.9215589761734,
+      "max": 0.9766651391983
+    }
+  },
+  "COc1cc(Br)c(cc1CC(N(C)C)C)OC - 94.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9575499829017743,
+      "min": 0.9229226112366,
+      "max": 0.9761098623276
+    }
+  },
+  "COCCOCCl - 73": {
+    "expected": 1,
+    "actual": {
+      "average": 0.952494998772925,
+      "min": 0.9321666359901,
+      "max": 0.9584047794342
+    }
+  },
+  "COc1cc(Br)c(cc1CC([N](C)(C)C)C)OC - 2155": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9603857574328565,
+      "min": 0.9266189336777,
+      "max": 0.979420542717
+    }
+  },
+  "COc1cc(CC(N)C)cc(c1OC)OC - 57.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684140728786624,
+      "min": 0.9390450716019,
+      "max": 0.9766747355461
+    }
+  },
+  "Nc1nc(cc(n1)c1ccc(c2c1cccc2)F)C(C)C - 717.22": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9540732216835024,
+      "min": 0.9261561632156,
+      "max": 0.9739674925804
+    }
+  },
+  "NCCc1c[nH]c2c1cc(cc2)C(=O)N - 549.54": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9627025162995733,
+      "min": 0.9235627055168,
+      "max": 0.9767574071884
+    }
+  },
+  "Cc1c(CCN)c2c([nH]1)ccc(c2)O - 2398.83": {
+    "expected": 1,
+    "actual": {
+      "average": 0.965030820054169,
+      "min": 0.9294910430908,
+      "max": 0.9764400720596
+    }
+  },
+  "NCCc1cn(c2c1cc(O)cc2)C - 28.295": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9692826182095002,
+      "min": 0.9291250109673,
+      "max": 0.9764307141304
+    }
+  },
+  "CCN(C(=O)N[C@@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC - 6918.31": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9676861714672432,
+      "min": 0.9095796942711,
+      "max": 0.9709803462029
+    }
+  },
+  "CCN(C(=O)N[C@@H]1CN(C)[C@@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC - 1096.48": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9681448324306604,
+      "min": 0.9629706144333,
+      "max": 0.9713473320007
+    }
+  },
+  "CCN(C(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC - 5.148333333333333": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678868933303921,
+      "min": 0.9353843927383,
+      "max": 0.9733416438103
+    }
+  },
+  "C[C@@H](Cc1cccc(c1)C(F)(F)F)N - 461.8300000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9695640737360128,
+      "min": 0.9378765821457,
+      "max": 0.976230442524
+    }
+  },
+  "FC(c1ccc(nc1Cl)N1CCNCC1)(F)F - 223.535": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9614248717653362,
+      "min": 0.9285072684288,
+      "max": 0.9756732583046
+    }
+  },
+  "COc1ccc2c(c1[C@H]1CNCC1)CCC2 - 77.62": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9685577050499323,
+      "min": 0.92834430933,
+      "max": 0.9752707481384
+    }
+  },
+  "N1CCN(CC1)c1ccc2c(n1)cccc2 - 686.3166666666667": {
+    "expected": 1,
+    "actual": {
+      "average": 0.971192143360775,
+      "min": 0.9276512265205,
+      "max": 0.9779340028763
+    }
+  },
+  "CC(Cn1ccc2c1cc(Cl)c(c2)F)N - 168.99666666666667": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9654484424792609,
+      "min": 0.9277552366257,
+      "max": 0.9764956831932
+    }
+  },
+  "COc1ccc2c(c1)c(c[nH]2)C1=CCNCC1 - 103.58500000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.959993191619421,
+      "min": 0.9254484772682,
+      "max": 0.9796358942986
+    }
+  },
+  "CN1CCc2c([C@H](C1)c1ccccc1)cc(c(c2)Cl)O - 11.99": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9688301478346659,
+      "min": 0.9575456380844,
+      "max": 0.9767107963562
+    }
+  },
+  "FC(c1cccc(c1)N1CCNCC1)(F)F - 104.45": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9667106224940347,
+      "min": 0.9275050759315,
+      "max": 0.976963698864
+    }
+  },
+  "Fc1cccc2c1OC1CNCC1O2 - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682337595149908,
+      "min": 0.9285185933113,
+      "max": 0.9766467213631
+    }
+  },
+  "COc1ccc2c(c1)c(CCN(C)C)c[nH]2 - 610.8333333333334": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9601078958346948,
+      "min": 0.9249781370163,
+      "max": 0.9765387773514
+    }
+  },
+  "CN(CCc1c[nH]c2c1cc(O)cc2)C - 80": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9613686607434186,
+      "min": 0.9243386983871,
+      "max": 0.9765346646309
+    }
+  },
+  "COc1cc(C)c(cc1CC(N)C)OC - 111.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9708270458074709,
+      "min": 0.9326926469803,
+      "max": 0.9768434166908
+    }
+  },
+  "CCN[C@@H](Cc1cccc(c1)C(F)(F)F)C - 1430": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9692000746727003,
+      "min": 0.9568443894386,
+      "max": 0.9763553142548
+    }
+  },
+  "C[C@H](Cc1cccc(c1)C(F)(F)F)N - 267": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680272936820984,
+      "min": 0.9159777760506,
+      "max": 0.9766567349434
+    }
+  },
+  "CC1CCN(CC1)CC[C@H]1CCCN1S(=O)(=O)c1ccc(c(c1)Cl)Cl - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9664908949534157,
+      "min": 0.9273236393929,
+      "max": 0.9714162349701
+    }
+  },
+  "CC1CCN(CC1)CC[C@H]1CCCN1S(=O)(=O)c1cccc(c1)Br - 5011.87": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9656713343646413,
+      "min": 0.9271019697189,
+      "max": 0.9710397720337
+    }
+  },
+  "CC1CCN(CC1)CC[C@H]1CCCN1S(=O)(=O)c1cccc2c1cccc2 - 1584.89": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9661848528965041,
+      "min": 0.9270259737968,
+      "max": 0.9707163572311
+    }
+  },
+  "CC1CCN(CC1)CC[C@H]1CCCCC1S(=O)(=O)c1cccc2c1cccc2 - 2515.89": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9662913067700122,
+      "min": 0.928973197937,
+      "max": 0.9711042642593
+    }
+  },
+  "CC1CCN(CC1)CC[C@H]1CCCN1S(=O)(=O)c1cccc(c1)C - 5011.87": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9666340896061456,
+      "min": 0.9269980192184,
+      "max": 0.9713642597198
+    }
+  },
+  "CC1CCN(CC1)CCC1CCCCC1S(=O)(=O)c1cccc2c1cccc2 - 3162.27": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9431373167037946,
+      "min": 0.924604177475,
+      "max": 0.9682033061981
+    }
+  },
+  "CCCN(C1CCc2c(C1)ccc(c2)CS(=O)(=O)c1ccc(cc1)OC)CCC - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9476187523206026,
+      "min": 0.8851227760315,
+      "max": 0.9768257141113
+    }
+  },
+  "Clc1ccc(cc1)C1(O)CCN(CC1)Cc1c[nH]c2c1cccc2 - 505.615": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9538148416055148,
+      "min": 0.9167318344116,
+      "max": 0.9747896790504
+    }
+  },
+  "N#Cc1ccc2c(c1)[C@H]1CN(C[C@@H]1CO2)CCCCNC(=O)c1ccc(cc1)c1ccccc1 - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678119866053309,
+      "min": 0.959696829319,
+      "max": 0.9735145568848
+    }
+  },
+  "Fc1ccc(cc1)C(c1ccc(cc1)F)CCCN1CCC(CC1)n1c(=O)[nH]c2c1cccc2 - 37": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9441318160867028,
+      "min": 0.9174673557281,
+      "max": 0.9671151638031
+    }
+  },
+  "CN(CCCN1c2ccccc2CCc2c1cc(Cl)cc2)C - 35.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.951565461259493,
+      "min": 0.9235562086105,
+      "max": 0.9754638671875
+    }
+  },
+  "CNCC[C@@H](c1cccs1)Oc1cccc2c1cccc2 - 504": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679473051253412,
+      "min": 0.9258012771606,
+      "max": 0.9772325754166
+    }
+  },
+  "COc1ccc(cc1)C(C1(O)CCCCC1)CN(C)C - 2230": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9567633885890204,
+      "min": 0.9281712174416,
+      "max": 0.9766651988029
+    }
+  },
+  "Nc1c(Cl)cc(c2c1OCCO2)c1nn(c(=O)o1)C1CCN(CC1)CCc1ccccc1 - 1320": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9493218519185741,
+      "min": 0.9258089661598,
+      "max": 0.9710962772369
+    }
+  },
+  "CN1CCc2c3[C@H]1Cc1ccc(c(c1c3ccc2)O)O - 120.23": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968134984175363,
+      "min": 0.9512492418289,
+      "max": 0.9743359684944
+    }
+  },
+  "CC(C[C@H]1C(=O)N2CCC[C@H]2[C@]2(N1C(=O)[C@@](O2)(NC(=O)[C@H]1CN(C)[C@H]2C(=C1)c1cccc3c1c(C2)c([nH]3)Br)C(C)C)O)C - 107.15": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9712454229593316,
+      "min": 0.962533891201,
+      "max": 0.9761991500854
+    }
+  },
+  "C=CCN1CC(CC2C1Cc1c[nH]c3c1c2ccc3)C(=O)N(C(=O)NCC)CCCN(C)C - 6.17": {
+    "expected": 1,
+    "actual": {
+      "average": 0.946740458140504,
+      "min": 0.9265766143799,
+      "max": 0.9669199585915
+    }
+  },
+  "CCCN1C[C@H](CSC)C[C@H]2[C@H]1Cc1c[nH]c3c1c2ccc3 - 8.32": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9693644512189629,
+      "min": 0.9667519927025,
+      "max": 0.9748715162277
+    }
+  },
+  "Oc1ccc2c(c1)c(CCCCN1CCC(=CC1)c1ccccc1)c[nH]2 - 6.61": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9478397957152807,
+      "min": 0.907146692276,
+      "max": 0.9685615301132
+    }
+  },
+  "CCN(C(=O)N[C@@H]1CN(C)[C@H]2[C@H](C1)c1cccc3c1c(C2)c[nH]3)CC - 4.79": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684660189772278,
+      "min": 0.9622817635536,
+      "max": 0.9715388417244
+    }
+  },
+  "C[NH](C1CCc2c(C1)cc(c(c2)O)O)C - 2344.23": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9624260032354895,
+      "min": 0.9263416528702,
+      "max": 0.9763852357864
+    }
+  },
+  "CNCCC(c1ccccc1)Oc1ccccc1C - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9668459226687734,
+      "min": 0.9275183081627,
+      "max": 0.9766174554825
+    }
+  },
+  "N#Cc1ccc2c(c1)N(CC(CN(C)C)C)c1c(S2)cccc1 - 1.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9492414891719797,
+      "min": 0.8911932110786,
+      "max": 0.9719061255455
+    }
+  },
+  "O=C1CCc2c(N1)cc(cc2)OCCCCN1CCN(CC1)c1cccc(c1Cl)Cl - 10.433333333333334": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9450005920309779,
+      "min": 0.8984313607216,
+      "max": 0.9790343642235
+    }
+  },
+  "OCCN1CCN(CC1)CCCN1c2ccccc2Sc2c1cc(Cl)cc2 - 5.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9492747481555165,
+      "min": 0.922399520874,
+      "max": 0.9785912632942
+    }
+  },
+  "CN1CCN(CC1)CCC=C1c2ccccc2Sc2c1cc(cc2)S(=O)(=O)N(C)C - 50": {
+    "expected": 1,
+    "actual": {
+      "average": 0.946387019875932,
+      "min": 0.9181483983994,
+      "max": 0.9776604771614
+    }
+  },
+  "COc1ccc2c(c1)c(CCNC(=O)C)ccc2 - 4466.83": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9643595507368409,
+      "min": 0.9262009859085,
+      "max": 0.9763441681862
+    }
+  },
+  "c1ccc2c(c1)Cc1c(C32CNCC3)cccc1 - 4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9664766418211396,
+      "min": 0.9289999008179,
+      "max": 0.9767917394638
+    }
+  },
+  "CCc1oc2c(c1)c1c(cc2)cnn1CC(N)C - 13": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9568286761641512,
+      "min": 0.9254713058472,
+      "max": 0.9753988385201
+    }
+  },
+  "CCCN1CCOC2C1CCc1c2cc(cc1)C(=O)N - 5248.07": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9544772929039523,
+      "min": 0.924304664135,
+      "max": 0.975435256958
+    }
+  },
+  "CCc1c(nn(c1c1ccc(cc1)Br)c1ccc(cc1Cl)Cl)C(=O)NN1CCCCC1 - 1000": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9499737707773855,
+      "min": 0.884392619133,
+      "max": 0.9714123010635
+    }
+  },
+  "CCCN(C1CCc2c(C1)c(O)ccc2)CCC - 2691.53": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9670933087666841,
+      "min": 0.9288403391838,
+      "max": 0.9765979647636
+    }
+  },
+  "Fc1ccc(cc1)OCCCN1CCC2(CC1)C(=O)NCN2c1ccccc1 - 22.39": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9507988424443448,
+      "min": 0.9259246587753,
+      "max": 0.9740145206451
+    }
+  },
+  "CN1CCN(CC1)c1nc2cc(ccc2n2c1ccc2)C(F)(F)F - 4265.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9534576456797696,
+      "min": 0.9253628849983,
+      "max": 0.9713222980499
+    }
+  },
+  "CCNC(Cc1cccc(c1)C(F)(F)F)C - 3801.89": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968087572162432,
+      "min": 0.9288446903229,
+      "max": 0.9767573475838
+    }
+  },
+  "O=C(C1CN(C)C2C(=C1)c1cccc3c1c(C2)c[nH]3)NC1(C)OC2(N(C1=O)C(Cc1ccccc1)C(=O)N1C2CCC1)O - 0.98": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9414938735961909,
+      "min": 0.9213672876358,
+      "max": 0.9667286276817
+    }
+  },
+  "CCN(C(=O)C1CN(C)C2C(=C1)c1cccc3c1c(C2)c[nH]3)CC - 0.76": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9490581685549588,
+      "min": 0.9266416430473,
+      "max": 0.969176530838
+    }
+  },
+  "COc1cccc(c1OC)C(C1CCN(CC1)CCc1ccc(cc1)F)O - 0.9450000000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9532047804087863,
+      "min": 0.9216268062592,
+      "max": 0.9759374856949
+    }
+  },
+  "CN1CC(CC2C1Cc1cn(c3c1c2ccc3)C)NS(=O)(=O)N(C)C - 45.71": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9485844156226623,
+      "min": 0.9248025417328,
+      "max": 0.9738140106201
+    }
+  },
+  "O=C(OCc1ccccc1)NCC1CN(C)C2C(C1)c1cccc3c1c(C2)cn3C - 2.29": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9427074813842758,
+      "min": 0.9222996234894,
+      "max": 0.9696218967438
+    }
+  },
+  "CCC(NC(=O)C1CN(C)C2C(=C1)c1cccc3c1c(C2)c[nH]3)CO - 0.35": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9445441291756863,
+      "min": 0.9226585030556,
+      "max": 0.9690622091293
+    }
+  },
+  "CN1CCN2C(C1)c1ccccc1Cc1c2cccc1.Cl - 8.7625": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9559990363578247,
+      "min": 0.9247587323189,
+      "max": 0.9741918444633
+    }
+  },
+  "Clc1cncc(n1)N1CCNCC1 - 5511.645": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9671539592742963,
+      "min": 0.9276730418205,
+      "max": 0.976703286171
+    }
+  },
+  "COc1ccc2c(c1O[C@@H]1CNCC1)CCC2 - 32.36": {
+    "expected": 1,
+    "actual": {
+      "average": 0.96960442995324,
+      "min": 0.9616904854774,
+      "max": 0.9755108952522
+    }
+  },
+  "OC(COc1cccc2c1cc[nH]2)CNC(C)C - 9332.54": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9612239012642476,
+      "min": 0.9280571341515,
+      "max": 0.9762875437737
+    }
+  },
+  "CCCN1CCCC2C1Cc1cn[nH]c1C2 - 3311.31": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9668512922066921,
+      "min": 0.921882212162,
+      "max": 0.9766408801079
+    }
+  },
+  "CSc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1cccnc1 - 549.54": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9503367224209747,
+      "min": 0.9237422943115,
+      "max": 0.9684510827065
+    }
+  },
+  "Clc1cccc(c1)N1CCN(CC1)CCCn1nc2n(c1=O)cccc2 - 44.67": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9552487290068866,
+      "min": 0.9247997999191,
+      "max": 0.9788730144501
+    }
+  },
+  "C[C@@H](CN1CCc2c1cc(Br)cc2)N - 352.905": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9704576888018198,
+      "min": 0.9437748789787,
+      "max": 0.9768469333649
+    }
+  },
+  "COc1ccccc1N1CCN(CC1)CCN(C(=O)C1CCCCC1)c1ccccn1 - 6260": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9462759116211462,
+      "min": 0.903731405735,
+      "max": 0.9800255894661
+    }
+  },
+  "COc1ccccc1N1CCN(CC1)CCCCn1ncc(=O)n(c1=O)C - 4975": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9504246039049942,
+      "min": 0.894719004631,
+      "max": 0.9785398840904
+    }
+  },
+  "CCN1CCCC1CNC(=O)c1cc(c(cc1OC)N)S(=O)(=O)CC - 8304": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9497143585939677,
+      "min": 0.8768008351326,
+      "max": 0.9680569171906
+    }
+  },
+  "O=C(CC1(O)CCC1)N[C@@H]1CC[C@H](CC1)CCN1CCC(CC1)c1cccc2c1OCO2 - 26.76": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678452933156745,
+      "min": 0.9564777612686,
+      "max": 0.9702317714691
+    }
+  },
+  "Cc1ccc(cn1)C(=O)N[C@@H]1CC[C@H](CC1)CCN1CCC(CC1)c1cccc2c1OCO2 - 11.49": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9676029015528552,
+      "min": 0.9576473236084,
+      "max": 0.9706816077232
+    }
+  },
+  "OC(CN1CCN(CC1)c1ccccc1)CON1C(=O)C2C(C1=O)C1CC2C=C1 - 336": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9512285653750026,
+      "min": 0.9238794445992,
+      "max": 0.9660597443581
+    }
+  },
+  "CO[C@@H](C(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)C - 7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686423595014317,
+      "min": 0.963411450386,
+      "max": 0.9728000760078
+    }
+  },
+  "O=C(c1ccc(cc1)OC(C)(C)C)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 41.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9671340535764839,
+      "min": 0.9554063677788,
+      "max": 0.9701392054558
+    }
+  },
+  "CO[C@H](C(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)C - 20.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686483061975986,
+      "min": 0.9639655947685,
+      "max": 0.9738591909409
+    }
+  },
+  "O=S(=O)(c1ccccc1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 70.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680552180499234,
+      "min": 0.9610821604729,
+      "max": 0.9701749682426
+    }
+  },
+  "COC(CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)C - 30.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678171261151586,
+      "min": 0.9559918045998,
+      "max": 0.9711419939995
+    }
+  },
+  "CC[C@H](CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)O - 42": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968812935446436,
+      "min": 0.9634621739388,
+      "max": 0.9718313217163
+    }
+  },
+  "O=C(CC1(O)CCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 22.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680602693557705,
+      "min": 0.9620695710182,
+      "max": 0.9699640274048
+    }
+  },
+  "CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 9.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682926313201017,
+      "min": 0.9644147753716,
+      "max": 0.9708201885223
+    }
+  },
+  "CO[C@@H]1CC[C@H](C1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 6.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686235252179582,
+      "min": 0.9628626704216,
+      "max": 0.9707306623459
+    }
+  },
+  "O[C@@H]1CC[C@H](CC1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 8.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686940113703425,
+      "min": 0.9622406959534,
+      "max": 0.9728630185127
+    }
+  },
+  "CCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 6.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682668304443375,
+      "min": 0.958384335041,
+      "max": 0.9740322828293
+    }
+  },
+  "COCCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 8.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968238069977558,
+      "min": 0.9622259140015,
+      "max": 0.9705677628517
+    }
+  },
+  "OCCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 10.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683802086446001,
+      "min": 0.9620478153229,
+      "max": 0.9701805114746
+    }
+  },
+  "OCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 5.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686894584709492,
+      "min": 0.963937163353,
+      "max": 0.9739063978195
+    }
+  },
+  "COCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 4.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684370772706087,
+      "min": 0.96007335186,
+      "max": 0.970479786396
+    }
+  },
+  "CO[C@@H]1CC[C@H](CC1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 5.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686212029896314,
+      "min": 0.96299046278,
+      "max": 0.9714163541794
+    }
+  },
+  "O=C(N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2)CC1CCOCC1 - 6.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679964426401497,
+      "min": 0.9603711366653,
+      "max": 0.9700073599815
+    }
+  },
+  "O=C(C1CCOCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 2.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679429300626136,
+      "min": 0.9582893848419,
+      "max": 0.9704992771149
+    }
+  },
+  "CCOCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 7.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680913467156248,
+      "min": 0.9620017409325,
+      "max": 0.9704585075378
+    }
+  },
+  "O=C(C1CC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 4.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9681965629259733,
+      "min": 0.9567549824715,
+      "max": 0.9698266386986
+    }
+  },
+  "CS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 6.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682703605596522,
+      "min": 0.9614162445068,
+      "max": 0.9703968763351
+    }
+  },
+  "CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 3.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9685654060481315,
+      "min": 0.9651522040367,
+      "max": 0.9704705476761
+    }
+  },
+  "CCS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 8.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679687701993598,
+      "min": 0.9613724946976,
+      "max": 0.9705924987793
+    }
+  },
+  "CN(S(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2)C - 5.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678049652200024,
+      "min": 0.9598934650421,
+      "max": 0.9707868099213
+    }
+  },
+  "CCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 2.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9687289693584236,
+      "min": 0.9605765938759,
+      "max": 0.9723232984543
+    }
+  },
+  "COCCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 3.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9681748667278851,
+      "min": 0.9609773755074,
+      "max": 0.9702136516571
+    }
+  },
+  "CO[C@@H]1CC[C@H](CC1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 2.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9688529702457191,
+      "min": 0.9631495475769,
+      "max": 0.9718047976494
+    }
+  },
+  "CO[C@@H]1CC[C@H](C1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 4.300000000000001": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686226131100412,
+      "min": 0.9602308273315,
+      "max": 0.9715049862862
+    }
+  },
+  "COCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 2.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9681915749966241,
+      "min": 0.9562545418739,
+      "max": 0.9699497818947
+    }
+  },
+  "O=C(N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2)CC1CCOCC1 - 3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677524123642932,
+      "min": 0.9590090513229,
+      "max": 0.9710525870323
+    }
+  },
+  "O=C(C1CCOCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 1.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677010138292583,
+      "min": 0.9593492746353,
+      "max": 0.97025847435
+    }
+  },
+  "CO[C@H]1CC[C@@H](C1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 4.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686181247234328,
+      "min": 0.9579418897629,
+      "max": 0.971544444561
+    }
+  },
+  "OCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 1.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684061875214501,
+      "min": 0.9554228186607,
+      "max": 0.9739874005318
+    }
+  },
+  "O[C@@H]1CC[C@H](CC1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9690275748570792,
+      "min": 0.9628168940544,
+      "max": 0.9713490009308
+    }
+  },
+  "O=C(c1ccnc2c1cccc2)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1cco2 - 5.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967624419530228,
+      "min": 0.9617177844048,
+      "max": 0.9704881310463
+    }
+  },
+  "CS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 2.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682551847921814,
+      "min": 0.9617059826851,
+      "max": 0.9704219698906
+    }
+  },
+  "CCS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1ccs2 - 2.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680680998166412,
+      "min": 0.9584045410156,
+      "max": 0.970109462738
+    }
+  },
+  "CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 22.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683554434776305,
+      "min": 0.9563571214676,
+      "max": 0.9714239835739
+    }
+  },
+  "O=C(C1CCOCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 5.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680898222204782,
+      "min": 0.9603310823441,
+      "max": 0.9697376489639
+    }
+  },
+  "O=C(N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)CC1CCOCC1 - 20.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679404028256747,
+      "min": 0.9583004117012,
+      "max": 0.9697781801224
+    }
+  },
+  "COCCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 24.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680413579618551,
+      "min": 0.9555944800377,
+      "max": 0.9712333083153
+    }
+  },
+  "CCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 13.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683849599263414,
+      "min": 0.9624971747398,
+      "max": 0.9707015156746
+    }
+  },
+  "O=C(CC1COCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 9.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677913680269962,
+      "min": 0.9558359384537,
+      "max": 0.969464302063
+    }
+  },
+  "COCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 11": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680656250317841,
+      "min": 0.9559829235077,
+      "max": 0.9705618023872
+    }
+  },
+  "O=C(CS(=O)(=O)C)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 16.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678285806565617,
+      "min": 0.9597303271294,
+      "max": 0.9704685807228
+    }
+  },
+  "OCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 12.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684294905211528,
+      "min": 0.9633098244667,
+      "max": 0.9698491096497
+    }
+  },
+  "OCCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 35.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.968261108205127,
+      "min": 0.9602181315422,
+      "max": 0.9709050059319
+    }
+  },
+  "O=C(C1CCOC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 9.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679761171340946,
+      "min": 0.9609479308128,
+      "max": 0.9704036712646
+    }
+  },
+  "O=C(C1CCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 6.3": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967905324053119,
+      "min": 0.9602485895157,
+      "max": 0.96987169981
+    }
+  },
+  "O=C(c1ccccc1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 7.63": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9680074896361438,
+      "min": 0.9592080712318,
+      "max": 0.9704281687737
+    }
+  },
+  "Fc1ccc(cc1)C(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 11.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683385930563274,
+      "min": 0.9595937132835,
+      "max": 0.9709018468857
+    }
+  },
+  "Clc1ccc(cc1)C(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 14.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9676241270593703,
+      "min": 0.9560412764549,
+      "max": 0.9710448980331
+    }
+  },
+  "O=C(c1ccc(cc1)C(F)(F)F)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 18.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9672717354069053,
+      "min": 0.9611169695854,
+      "max": 0.9703055024147
+    }
+  },
+  "CS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 21.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683819603920004,
+      "min": 0.962864279747,
+      "max": 0.9703490138054
+    }
+  },
+  "CCS(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 17.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677158521639324,
+      "min": 0.9563476443291,
+      "max": 0.9697129130363
+    }
+  },
+  "Fc1ccc(cc1)S(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 39.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9674809075690608,
+      "min": 0.9603518247604,
+      "max": 0.9701054692268
+    }
+  },
+  "O=C(N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)CC1CC1 - 13.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679519856298326,
+      "min": 0.9604398012161,
+      "max": 0.9724217057228
+    }
+  },
+  "O=C(C1CCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 10.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9685473654368135,
+      "min": 0.9637437462807,
+      "max": 0.9709869623184
+    }
+  },
+  "O=C(C1CCCOC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 6.37": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967908774336721,
+      "min": 0.9597896337509,
+      "max": 0.9700434803963
+    }
+  },
+  "O=C([C@@H]1CC[C@@](CC1)(C)O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 12.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9681951701641143,
+      "min": 0.961538374424,
+      "max": 0.9721534848213
+    }
+  },
+  "O=C([C@@H]1CC[C@](CC1)(C)O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 6.14": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967941809495289,
+      "min": 0.9562423229218,
+      "max": 0.9733217954636
+    }
+  },
+  "O=C(c1ccc(cc1)N1CCCCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 19.2": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9673732401509081,
+      "min": 0.9589782357216,
+      "max": 0.9708188772202
+    }
+  },
+  "O=C(c1ccc(cc1)N1CCOCC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 4.52": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9675623472531625,
+      "min": 0.9610256552696,
+      "max": 0.9712356328964
+    }
+  },
+  "O=C(C1(O)CC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 5.92": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682547168151729,
+      "min": 0.9561131596565,
+      "max": 0.9707525372505
+    }
+  },
+  "N#CCC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 15.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9677738829239025,
+      "min": 0.954340338707,
+      "max": 0.9714564681053
+    }
+  },
+  "O=C(CC(F)(F)F)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 11": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679758597064742,
+      "min": 0.9586156606674,
+      "max": 0.970264673233
+    }
+  },
+  "O=C(C[C@@H]1COCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 11.8": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9670827062924735,
+      "min": 0.8926631808281,
+      "max": 0.9706015586853
+    }
+  },
+  "O=C(c1ccnc2c1cccc2)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 3.62": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9679057502746599,
+      "min": 0.9609778523445,
+      "max": 0.9694835543633
+    }
+  },
+  "O=C(C1CC1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 11.1": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9682123987642043,
+      "min": 0.9622883796692,
+      "max": 0.9698932766914
+    }
+  },
+  "O=C(CC1CCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 16.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.967894129753107,
+      "min": 0.9586796164513,
+      "max": 0.9702450037003
+    }
+  },
+  "CO[C@@H]1CC[C@H](CC1)CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 14.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686559096972096,
+      "min": 0.9628509879112,
+      "max": 0.9714178442955
+    }
+  },
+  "CN(S(=O)(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)C - 11.5": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9683554164350852,
+      "min": 0.9634179472923,
+      "max": 0.970665037632
+    }
+  },
+  "O=C(C[C@H]1COCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 8.15": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9671601827939389,
+      "min": 0.8834609985352,
+      "max": 0.9717687368393
+    }
+  },
+  "O=C(C[C@H]1CCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 14.6": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9686870446076281,
+      "min": 0.9632471203804,
+      "max": 0.9721254706383
+    }
+  },
+  "O=C(C[C@@H]1CCCO1)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 24.9": {
+    "expected": 1,
+    "actual": {
+      "average": 0.969111504554747,
+      "min": 0.9640944004059,
+      "max": 0.9730261564255
+    }
+  },
+  "O=C(C(C)(C)C)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2 - 9.4": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9678593718842287,
+      "min": 0.9624973535538,
+      "max": 0.9697265625
+    }
+  },
+  "CC(CC(=O)N[C@@H]1CC[C@H](CC1)CCN1CCN(CC1)c1nccc2c1CCO2)C - 15.7": {
+    "expected": 1,
+    "actual": {
+      "average": 0.9684379164377858,
+      "min": 0.9609122872353,
+      "max": 0.9709923267365
+    }
+  },
+  "O=C(NC1CCCc2c1cccc2)CCCCCN1CCN(CC1)c1ccccc1C(=O)C - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.9476734366681789,
+      "min": 0.9251835942268,
+      "max": 0.9748462438583
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1cc(Br)cc(c1)c1cccnc1 - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.9426676550427012,
+      "min": 0.8932952284813,
+      "max": 0.9765800237656
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1ccc(nc1)c1cccnc1 - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.9511501004821381,
+      "min": 0.924652159214,
+      "max": 0.9711586236954
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1ccc(cc1)c1ccncc1 - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.9471307682664438,
+      "min": 0.8895312547684,
+      "max": 0.9781687855721
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1ccc(c(c1)c1cnccc1C)C - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.9437906178268247,
+      "min": 0.9204666018486,
+      "max": 0.9670162796974
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1cncc(c1)c1c(F)cccc1F - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.945042818387352,
+      "min": 0.9251283407211,
+      "max": 0.9669243097305
+    }
+  },
+  "COc1cc2CCN(c2cc1C(F)(F)F)C(=O)Nc1ccc(c(c1)c1cnccc1C)Cl - 10000": {
+    "expected": 0,
+    "actual": {
+      "average": 0.941967189311985,
+      "min": 0.8943511247635,
+      "max": 0.9664103984833
+    }
+  }
+}
