@@ -1,0 +1,51 @@
+# Header
+navbar_brand: false
+menu:
+  Home: /
+  Archives: archives/
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: false
+
+# Sidebar
+widgets:
+- about
+- category
+- tag
+#- tagcloud
+- archive
+- recent_posts
+about_widget_content: >
+  <p>
+    You can find me (bergi aka bergos aka Thomas Bergwinkl) on:
+    <ul>
+      <li><a href="https://twitter.com/bergi_bergos">Twitter</a></li>
+      <li><a href="https://github.com/bergos/">GitHub</a></li>
+      <li><a href="https://www.bergnet.org/people/bergi/card#me">WebID</a></li>
+    </ul>
+
+    My home base is located at:
+    <a href="https://en.wikipedia.org/wiki/Landshut">Landshut</a>,
+    <a href="https://en.wikipedia.org/wiki/Earth">Earth</a>,
+    <a href="https://en.wikipedia.org/wiki/Solar_System">Solar System</a>,
+    <a href="https://en.wikipedia.org/wiki/Local_Interstellar_Cloud">Local Interstellar Cloud</a>,
+    <a href="https://en.wikipedia.org/wiki/Local_Bubble">Local Bubble</a>,
+    <a href="https://en.wikipedia.org/wiki/Orion_Arm">Orion–Cygnus Arm</a>,
+    <a href="https://en.wikipedia.org/wiki/Milky_Way">Milky Way</a>,
+    <a href="https://en.wikipedia.org/wiki/Local_Group">Local Group</a>,
+    <a href="https://en.wikipedia.org/wiki/Laniakea_Supercluster">Laniakea Supercluster</a>
+  </p>
+
+# widget behavior
+archive_type: 'yearly'
+show_count: true
+
+# Miscellaneous
+#google_analytics:
+#favicon:
+#twitter_id:
+#google_plus:
+#fb_admins:
+#fb_app_id:
