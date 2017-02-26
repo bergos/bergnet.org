@@ -26,7 +26,7 @@ Usually one problem is how to collect all the data.
 But with my Linked Data background that was quite easy.
 Use SPARQL to select the required information, done.
 But [ChEMBL](https://www.ebi.ac.uk/chembl/) is not the biggest public database.
-So I wrote a small CSV to RDF converter for [PDSB Ki database](https://github.com/bergos/ligand-binding-db-ki-database) and [BindingDB](https://github.com/bergos/ligand-binding-db-bindingdb). 
+So I wrote a small CSV to RDF converter for [PDSB Ki database](https://github.com/zazukoians/ligand-binding-db-ki-database) and [BindingDB](https://github.com/zazukoians/ligand-binding-db-bindingdb). 
 
 ## Feeding the neural network
 
@@ -77,7 +77,7 @@ For this project I developed some generic utils, which can be used also for othe
 
 ## Generic tools
 
-- [Keras Gaia](https://github.com/bergos/keras_gaia) handles datasets and models for Keras in simple project definitions (Python project).
+- [Keras Gaia](https://github.com/zazuko/keras_gaia) handles datasets and models for Keras in simple project definitions (Python project).
 - [SMILES parser and serializer](https://github.com/bergos/smiles) is used to split the SMILES strings to tokens.
   It also works the other way round.
 - The [Open Babel](https://github.com/bergos/openbabel-cli) command line wrapper is used to generate the canonical SMILES string and the alternatives.
@@ -87,11 +87,11 @@ The ligand binding code is also separated into sub projects to make them more re
 
 ## Ligand binding
 
-- The [PDSB Ki database](https://github.com/bergos/ligand-binding-db-ki-database) mapping and SPARQL server.
-- The [BindingDB](https://github.com/bergos/ligand-binding-db-bindingdb) mapping and SPARQL server.
-- The [utils](https://github.com/bergos/ligand-binding-utils) with generic code for the import and the mapping of the ligand binding data.
-- Command line programs for [processing ligand binding data](https://github.com/bergos/ligand-binding-processing).
-- Complete pipeline to run the [ligand binding deep learning](https://github.com/bergos/ligand-binding-deep-learning) including prepared examples.
+- The [PDSB Ki database](https://github.com/zazukoians/ligand-binding-db-ki-database) mapping and SPARQL server.
+- The [BindingDB](https://github.com/zazukoians/ligand-binding-db-bindingdb) mapping and SPARQL server.
+- The [utils](https://github.com/zazukoians/ligand-binding-utils) with generic code for the import and the mapping of the ligand binding data.
+- Command line programs for [processing ligand binding data](https://github.com/zazukoians/ligand-binding-processing).
+- Complete pipeline to run the [ligand binding deep learning](https://github.com/zazukoians/ligand-binding-deep-learning) including prepared examples.
 
 # Results
 
