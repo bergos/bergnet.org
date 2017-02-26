@@ -134,12 +134,15 @@ He encouraged me to test the idea.
 Also other colleagues ask me than: Why hasn't somebody else already implemented it?
 How good does it perform compared to existing solutions?
 The result looked pretty good, but I didn't found any test dataset to benchmark it against other methods.
-Also it was just a spare time project.
-But we will use the generic framework for payed projects in the future.
+Also it was just a spare time project at that time.
 All that delayed the release for such a long time.
 But now, after similar approaches showed up, I'd like to say:
 
 **Don't be afraid of ideas which are very different to current state of the art technology, especially if you are working in the field of deep learning!**
+
+Parts of this project now moved from my spare time to something we will support with the company I'm CTO for, [Zazuko GmbH](http://zazuko.com/).
+We have plans of using deep learning in other contexts as well, for example entity linking.
+If you need any support in deep learning and linked data, don't hesitate to [contact us](mailto:info@zazuko.com?subject=Keras/Gaia)!
 
 I expect much better results with a database which contains much more entries about molecules which don't bind to a receptor.
 But usually such data doesn't get published.
@@ -161,3 +164,5 @@ Short comparison (mine, paper):
 
 I also used the 5ht2a receptor for testing and also tried just the ChEMBL database without alternatives.
 The quality for the neural network should increase by a significant amount using the bigger dataset and the alternatives.  
+
+Edit: I was pointed to the paper [Learning to SMILE(S)](https://arxiv.org/abs/1602.06289), which seems to be the first public paper about the method to feed molecules to neural networks.
