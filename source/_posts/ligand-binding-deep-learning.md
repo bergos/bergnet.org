@@ -1,6 +1,9 @@
 ---
 title: Ligand binding affinity prediction using deep learning
 date: 2017-02-24 16:00:00
+tags:
+  - ML
+  - JavaScript
 ---
 
 # Preamble
