@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "install": "node install dist"
+    "generate": "hexo generate",
+    "install": "node install dist",
+    "start": "hexo server"
   },
   "hexo": {
     "version": "3.2.2"
